@@ -1,2 +1,2 @@
-# asp-hs
-Teachers Program for the African School of Physics
+# Teachers Program for the African School of Physics
+## Using Google Colab
